@@ -1,0 +1,20 @@
+# Project exclude paths
+*.idea
+*.iml
+*.classpath
+*.project
+*.class
+*.log
+.settings
+*.log.*
+*/src/main/webapp/WEB-INF/classes
+*/target/*
+*/target
+*/*.iml
+*/*.classpath
+*/*.project
+*/*.log
+*/*.log.*
+*/.settings
+test-rest/**
+target
